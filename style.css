@@ -5,6 +5,7 @@ color: black;
 text-align: right;
 background-image: url("fundo.jpg");
 
+
 }
 
 p{
@@ -21,10 +22,21 @@ p2
 
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 18px;
+text-align: left;
+color: yellow;
+
+}
+
+p3
+{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
 text-align: right;
 color: yellow;
 
 }
+
 
 div{
 
@@ -33,5 +45,32 @@ text-align: left;
 
 
 }
+
+#Div2
+{
+
+	text-align: center;
+}
+
+#Div3
+{
+
+	text-align: left;
+}
+
+#Div4
+{
+
+	text-align: right;
+}
+
+#Div6
+{
+
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
 
 
