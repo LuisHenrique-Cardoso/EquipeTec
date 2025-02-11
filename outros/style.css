@@ -19,6 +19,16 @@ background-image: url("fundo2.jpg");
 background-attachment: fixed;
 background-size: 100% 100%;
 
+h3
+{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+text-align: right;
+color: yellow;
+
+}
+
 
 }
 
@@ -34,27 +44,6 @@ background-attachment: fixed;
 
 }
 p2
-{
-
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 18px;
-text-align: left;
-color: black;
-
-
-}
-
-p3
-{
-
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 18px;
-text-align: right;
-color: yellow;
-
-}
-
-p4
 {
 
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -90,7 +79,7 @@ background-size: 100% 100%;
 {
 
 	text-align: center;
-	color: red;
+	color: lemonchiffon;
 	font-size: 30px;
 
 }
