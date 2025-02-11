@@ -5,7 +5,19 @@ font-size: 40px;
 color: black;
 text-align: right;
 background-image: url("fundo.jpg");
+background-attachment: fixed;
 
+
+}
+
+h2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+color: black;
+text-align: justify;
+background-image: url("fundo2.jpg");
+background-attachment: fixed;
+background-size: 100% 100%;
 
 
 }
@@ -17,6 +29,8 @@ font-size: 30px;
 color: black;
 background-image: url("mosaic.jpg");
 text-align: center;
+background-attachment: fixed;
+
 
 }
 p2
@@ -25,7 +39,8 @@ p2
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 18px;
 text-align: left;
-color: yellow;
+color: black;
+
 
 }
 
@@ -39,6 +54,28 @@ color: yellow;
 
 }
 
+p4
+{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+text-align: left;
+color: black;
+
+
+}
+
+pret
+{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+text-align: left;
+color: black;
+
+
+}
+
 
 div{
 
@@ -47,9 +84,14 @@ text-align: left;
 background-attachment: fixed;
 background-size: 100% 100%;
 
+}
 
+#Div1
+{
 
-
+	text-align: center;
+	color: red;
+	font-size: 30px;
 
 }
 
@@ -72,14 +114,7 @@ background-size: 100% 100%;
 	text-align: right;
 }
 
-#Div6
-{
 
-	text-align: center;
-	color: red;
-	font-size: 30px;
-
-}
 
 
 
